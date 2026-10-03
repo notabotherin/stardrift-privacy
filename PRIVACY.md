@@ -1,20 +1,20 @@
 # Privacy Policy — StarDrift
 
-Effective date: 3 October 2026 · App: StarDrift (`life.stardrift.app`)
+Effective date: 3 October 2026 · App: StarDrift (`life.stardrift.app`) · Developer: GameSlop
 
 Contact: notabotherin@gmail.com
 
 ## What the app stores
 
-StarDrift is a single-player game. Progress, settings, and unlocked looks are saved on the device using local storage. This version does not require an account and does not upload your save to a studio server.
+StarDrift is a single-player game. Game saves stay on the device using local storage. This version does not require a separate in-app account and does not upload your save to a studio server. Cosmetic looks are non-consumable purchases and stay on your Google Play account.
 
 ## Purchases
 
-This version does not use Google Play Billing. Nothing in the app charges a card or sends a purchase to Google. If real purchases are added later, this policy and the Play Data safety form will be updated first.
+This free game uses Google Play Billing for optional purchases: an extra save slot and cosmetic looks. The extra save slot is a consumable purchase: each purchase adds one slot. Cosmetic looks are non-consumable and stay on your Google Play account. Google processes the payment; StarDrift does not receive card numbers. These purchases are optional.
 
 ## Analytics and ads
 
-This version does not include analytics, crash reporting, or ads.
+This version has no ads, no analytics SDK, and no crash reporting.
 
 ## Children
 
